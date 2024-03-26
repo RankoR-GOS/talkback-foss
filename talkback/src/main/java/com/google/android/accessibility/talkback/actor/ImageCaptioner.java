@@ -425,8 +425,7 @@ public class ImageCaptioner extends Handler
   }
 
   public static boolean supportsImageCaption(Context context) {
-    return FeatureSupport.canTakeScreenShotByAccessibilityService()
-        && TalkbackFeatureSupport.supportDynamicFeatures();
+    return false;
   }
 
   /**
