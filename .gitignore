@@ -21,3 +21,7 @@ build/
 proguard/build/
 talkback/build/
 utils/build/
+
+## signing configs
+keystore.properties
+*.jks

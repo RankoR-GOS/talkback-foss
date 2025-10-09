@@ -33,6 +33,13 @@ allprojects {
     }
 }
 
+def keystorePropertiesFile = rootProject.file("keystore.properties")
+def keystoreProperties = new Properties()
+
+if (keystorePropertiesFile.exists()) {
+    keystoreProperties.load(new FileInputStream(keystorePropertiesFile))
+}
+
 android {
     buildToolsVersion '36.1.0'
     namespace = talkbackApplicationId
@@ -61,6 +68,49 @@ android {
     productFlavors {
         phone {
             dimension "target"
+        }
+    }
+
+    dependenciesInfo {
+        includeInApk = false
+    }
+
+    packaging {
+        resources {
+            excludes += [
+                "**/MANIFEST.MF",
+                "DebugProbesKt.bin",
+                "META-INF/**.version",
+                "kotlin-tooling-metadata.json",
+                "kotlin/**.kotlin_builtins"
+            ]
+        }
+    }
+
+    signingConfigs {
+        release {
+            if (keystorePropertiesFile.exists()) {
+                storeFile file(keystoreProperties["storeFile"])
+                storePassword keystoreProperties["storePassword"]
+                keyAlias keystoreProperties["keyAlias"]
+                keyPassword keystoreProperties["keyPassword"]
+                enableV2Signing = true
+		                enableV3Signing = true
+                enableV4Signing = true
+            }
+        }
+    }
+
+    buildTypes {
+        release {
+            if (keystorePropertiesFile.exists()) {
+                signingConfig signingConfigs.release
+            }
+            minifyEnabled false
+            shrinkResources false
+            proguardFiles getDefaultProguardFile(
+                "proguard-android-optimize.txt"
+            ), "proguard-rules.pro"
         }
     }
 }
