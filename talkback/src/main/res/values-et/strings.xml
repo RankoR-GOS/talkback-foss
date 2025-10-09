@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="talkback_service_description">Kui TalkBack on sees, annab see teile suulist tagasisidet, et seadet saaks kasutada ilma ekraanikuva vaatamata. See on abiks pimedatele ja vaegnägijatele.\n\nTalkBacki abil navigeerimiseks toimige järgmiselt.\n• Üksuste vahel liikumiseks pühkige paremale või vasakule.\n• Üksuse aktiveerimiseks topeltpuudutage.\n• Kerimiseks lohistage kahe sõrmega.\n\nTalkBacki väljalülitamiseks toimige järgmiselt.\n• Puudutage lülitit. Näete kontuuri. Topeltpuudutage lülitit.\n• Puudutage kinnitussõnumis nuppu OK. Seejärel topeltpuudutage nuppu OK.</string>
-  <string name="talkback_service_html_description">Kui TalkBack on sisse lülitatud, annab see teile suulist tagasisidet, et saaksite seadet kasutada ilma ekraanikuva vaatamata. TalkBack on mõeldud olukordadeks, kui ekraanikuva on keeruline vaadata, või inimestele, kelle jaoks ekraani kasutamine on keeruline.&lt;br&gt;&lt;br&gt;&lt;b&gt;Kuidas TalkBacki kasutada?&lt;/b&gt;&lt;br&gt;• Üksuste vahel liikumiseks pühkige paremale või vasakule.&lt;br&gt;• Üksuse aktiveerimiseks topeltpuudutage.&lt;br&gt;• Kerimiseks lohistage kahe sõrmega.&lt;br&gt;&lt;b&gt;Kuidas TalkBack välja lülitada?&lt;/b&gt;&lt;br&gt;1. Puudutage seadetes valikut &lt;b&gt;Kasuta funktsiooni TalkBack&lt;/b&gt;. Näete piirjoont. Topeltpuudutage seda.&lt;br&gt;2. Puudutage kinnitussõnumis nuppu &lt;b&gt;Peata&lt;/b&gt;. Näete piirjoont. Topeltpuudutage seda.</string>
+  <string name="talkback_service_description">Kui TalkBack FOSS on sees, annab see teile suulist tagasisidet, et seadet saaks kasutada ilma ekraanikuva vaatamata. See on abiks pimedatele ja vaegnägijatele.\n\nTalkBacki abil navigeerimiseks toimige järgmiselt.\n• Üksuste vahel liikumiseks pühkige paremale või vasakule.\n• Üksuse aktiveerimiseks topeltpuudutage.\n• Kerimiseks lohistage kahe sõrmega.\n\nTalkBacki väljalülitamiseks toimige järgmiselt.\n• Puudutage lülitit. Näete kontuuri. Topeltpuudutage lülitit.\n• Puudutage kinnitussõnumis nuppu OK. Seejärel topeltpuudutage nuppu OK.</string>
+  <string name="talkback_service_html_description">Kui TalkBack FOSS on sisse lülitatud, annab see teile suulist tagasisidet, et saaksite seadet kasutada ilma ekraanikuva vaatamata. TalkBack FOSS on mõeldud olukordadeks, kui ekraanikuva on keeruline vaadata, või inimestele, kelle jaoks ekraani kasutamine on keeruline.&lt;br&gt;&lt;br&gt;&lt;b&gt;Kuidas TalkBacki kasutada?&lt;/b&gt;&lt;br&gt;• Üksuste vahel liikumiseks pühkige paremale või vasakule.&lt;br&gt;• Üksuse aktiveerimiseks topeltpuudutage.&lt;br&gt;• Kerimiseks lohistage kahe sõrmega.&lt;br&gt;&lt;b&gt;Kuidas TalkBack FOSS välja lülitada?&lt;/b&gt;&lt;br&gt;1. Puudutage seadetes valikut &lt;b&gt;Kasuta funktsiooni TalkBack FOSS&lt;/b&gt;. Näete piirjoont. Topeltpuudutage seda.&lt;br&gt;2. Puudutage kinnitussõnumis nuppu &lt;b&gt;Peata&lt;/b&gt;. Näete piirjoont. Topeltpuudutage seda.</string>
   <string name="talkback_service_summary">Ekraanil oleva ettelugemine</string>
   <string name="talkback_preferences_title">TalkBacki seaded</string>
   <string name="tts_preferences_title">Kõnesünteesi seaded</string>
@@ -84,7 +84,7 @@
   <string name="pref_category_selector_menu_summary_single_finger">Lugemise juhtelementide kasutamiseks pühkige üles ja siis alla.</string>
   <string name="title_pref_manage_keyboard_shortcuts">Klaviatuuri otseteed</string>
   <string name="title_pref_export_custom_labels">Ekspordi kohandatud sildid</string>
-  <string name="title_pref_play_store">Ava TalkBack Play poes</string>
+  <string name="title_pref_play_store">Ava TalkBack FOSS Play poes</string>
   <string name="summary_pref_play_store">Praegune TalkBacki versioon: %1$s</string>
   <string name="title_pref_help_and_feedback">Abi ja tagasiside</string>
   <string name="title_pref_gup">Võtke ühendust Google\'i puuetega inimeste tugitiimiga</string>
@@ -121,7 +121,7 @@
       &lt;li&gt;Mõned muuteklahvid on erinevad.&lt;/li&gt;&lt;/ul&gt;</string>
   <string name="keycombo_keymap_changes_activity_content_learn_more">Lisateave klahvitabelite kohta</string>
   <string name="keycombo_go_to_settings">Ava seaded</string>
-  <string name="keycombo_keymap_changes_notifications_content">TalkBack valmistub klassikalise klahvitabeli eemaldamiseks. Klaviatuuri otseteede kasutamise jätkamiseks aktiveerige vaikeklahvitabel.</string>
+  <string name="keycombo_keymap_changes_notifications_content">TalkBack FOSS valmistub klassikalise klahvitabeli eemaldamiseks. Klaviatuuri otseteede kasutamise jätkamiseks aktiveerige vaikeklahvitabel.</string>
   <string name="keycombo_keymap_changes_notifications_action">Lisateave</string>
   <string name="keycombo_update_modifier_key_warning_title">Värskendage oma TalkBacki muuteklahvi</string>
   <string name="keycombo_update_modifier_keys_warning_negative_button">Mitte praegu</string>
@@ -269,7 +269,7 @@
   <string name="title_pref_typing_confirmation">Sisestamise eelistus</string>
   <string name="title_pref_typing_long_tap_duration">Pikalt puudutamise kestus sisestamisel</string>
   <string name="title_pref_talkback_gesture_detection">Liigutuste töötlemine TalkBackis</string>
-  <string name="toast_pref_talkback_gesture_detection">Lülitage TalkBack välja ja siis uuesti sisse, et seade aktiveerida.</string>
+  <string name="toast_pref_talkback_gesture_detection">Lülitage TalkBack FOSS välja ja siis uuesti sisse, et seade aktiveerida.</string>
   <string name="title_pref_auto_image_captioning">Automaatsed kirjeldused</string>
   <string name="title_pref_icon_image_description">Piltide ja ikoonide kirjeldused</string>
   <string name="title_pref_gemini_settings">Gemini seaded</string>
@@ -293,7 +293,7 @@
   <string name="dialog_message_gen_ai_tos_link">Google\'i teenusetingimused</string>
   <string name="message_aifeature_downloading">AI-mudeli allalaadimine. See võib pisut aega võtta. Teid teavitatakse, kui see on lõpule jõudnud.</string>
   <string name="message_aifeature_downloading_with_progress">Allalaadimine on alles pooleli. %1$d/%2$d MB on alla laaditud.</string>
-  <string name="message_aifeature_download_complete">AI-mudel on alla laaditud. TalkBack saab nüüd genereerida pildikirjeldusi.</string>
+  <string name="message_aifeature_download_complete">AI-mudel on alla laaditud. TalkBack FOSS saab nüüd genereerida pildikirjeldusi.</string>
   <string name="summary_pref_auto_image_captioning">Ikoonide, piltide ja piltidel oleva teksti jaoks</string>
   <string name="summary_pref_auto_image_captioning_text_only">Piltidel oleva teksti kohta</string>
   <string name="summary_pref_auto_image_captioning_no_icon">Piltidel olevate kujutiste ja teksti kohta</string>
@@ -460,7 +460,7 @@
   <string name="summary_links">Liikumine linkide vahel</string>
   <string name="summary_landmarks">Liikumine veebilehtede orientiiride (nt „peamine” või „navigeerimine”) vahel</string>
   <string name="summary_granularity_default">Korraga ühe üksuse lugemine</string>
-  <string name="summary_speech_rate">TalkBack kõnelemiskiiruse muutmine</string>
+  <string name="summary_speech_rate">TalkBack FOSS kõnelemiskiiruse muutmine</string>
   <string name="summary_selector_menu_verbosity">Sisestatud klahvide, kasutamisvihjete, ruudustiku teabe ja muu teabe ettelugemise sisse-/väljalülitamine</string>
   <string name="summary_selector_menu_punctuation">Muutke seda, kas kirjavahemärgid ja sümbolid loetakse ette</string>
   <string name="summary_language">Hääle keele muutmine. Kuvatakse ainult siis, kui teil on installitud mitu kõnesünteesi keelt.</string>
@@ -682,9 +682,9 @@
   <string name="dialog_message_voice_commands">Siin on mõned käsklused, mida võite öelda.\n\n• Kopeeri\n• Loe esiletõstetud üksusest\n• Leia [salvestis]\n• Räägi [kiiremini]\n• TalkBacki seaded\n\nÖelge „%1$s”, et näha kõigi häälkäskluste loendit.</string>
   <string name="start_voice_command">Häälkäskluste kasutamine</string>
   <string name="dialog_title_pass_through_mode">Süsteemiliigutuste kasutamiseks TalkBacki liigutuste vahelejätmine</string>
-  <string name="dialog_message_pass_through_mode">Kui kuulete kellahelinat, saate kasutada süsteemiliigutusi, mida TalkBack ei toeta. Seda nimetatakse liigutuse vahelejätmiseks.</string>
+  <string name="dialog_message_pass_through_mode">Kui kuulete kellahelinat, saate kasutada süsteemiliigutusi, mida TalkBack FOSS ei toeta. Seda nimetatakse liigutuse vahelejätmiseks.</string>
   <string name="hint_type_search_term">Otsingutermin</string>
-  <string name="talkback_notification_channel_name">TalkBack</string>
+  <string name="talkback_notification_channel_name">TalkBack FOSS</string>
   <string name="talkback_notification_channel_description">TalkBacki märguannete kanal</string>
   <string name="pref_selector_summary">%1$s, et valida seade. %2$s seejärel, et seadet kohandada.</string>
   <string name="speech_rate_change">Kõne kiirus on %1$d%%</string>
@@ -714,7 +714,7 @@
   <string name="training_navigate_up">Liigu üles</string>
   <string name="training_tip">Nõuanne</string>
   <string name="tv_training_overview_step_title">TalkBacki tööpõhimõte</string>
-  <string name="tv_training_overview_step_summary">TalkBack on Google\'i ekraanilugeja. See loeb ekraanil kuvatud teksti valjult ette ja pakub suulist tagasisidet, et saaksite oma seadet kasutada ilma ekraanikuva vaatamata.\n\nKui TalkBack on sisse lülitatud, loetakse ekraanikuval valitud üksus valjult ette ja vahel lisatakse sellele ka täiendavat teavet või konteksti.\n\nJätkamiseks vajutage nuppu Vali. Nupp Vali asub suunaklahvistiku keskel. See on suur ümmargune nupp teie puldi ülaosas.</string>
+  <string name="tv_training_overview_step_summary">TalkBack FOSS on Google\'i ekraanilugeja. See loeb ekraanil kuvatud teksti valjult ette ja pakub suulist tagasisidet, et saaksite oma seadet kasutada ilma ekraanikuva vaatamata.\n\nKui TalkBack FOSS on sisse lülitatud, loetakse ekraanikuval valitud üksus valjult ette ja vahel lisatakse sellele ka täiendavat teavet või konteksti.\n\nJätkamiseks vajutage nuppu Vali. Nupp Vali asub suunaklahvistiku keskel. See on suur ümmargune nupp teie puldi ülaosas.</string>
   <string name="tv_training_remote_step_title">Puldi kasutamine</string>
   <string name="tv_training_remote_step_summary">Liikuge ekraanikuval ringi ümmarguse suunanupuga, mis asub puldi ülaosas. Valimiseks vajutage puldi ülaosas oleva suunanupu keskosa.\n\nTeise rea vasakult poolelt leiate tagasinupu. Paremal on häälabi nupp.\n\nKolmanda rea vasakult poolt leiate avakuvanupu. Paremal on vaigistamisnupp.\n\nNeljanda rea vasakult poolt leiate YouTube\'i otsetee. Paremal on Netflixi otsetee.\n\nAlumises reas on kaks väikest nuppu. Vasakpoolne nupp on toitenupp. Parempoolne nupp avab teleri sisendi menüü.\n\nHelitugevuse nupud asuvad puldi paremal küljel.\n\nJätkamiseks vajutage nuppu Vali.</string>
   <string name="tv_training_shortcut_step_title">Talkbacki otsetee</string>
@@ -741,8 +741,8 @@
   <string name="onboarding_google_disability_support_content_tts">Google\'i puuetega inimeste tugitiim on valmis teid aitama seoses juurdepääsufunktsioonide ja abistava tehnoloogiaga, sh TalkBackiga.\n\nVõimalike ühenduse võtmise viiside vaatamiseks või probleemist teavitamiseks avage TalkBacki seaded ja seejärel Ühenduse võtmine Google\'i puuetega inimeste tugitiimiga</string>
   <string name="onboarding_google_disability_support_content_with_link">Lisateave Google\'i puuetega inimeste tugitiimi kohta</string>
   <string name="onboarding_punctuation_and_symbols_title">Rohkem paljusõnalisuse valikuid kirjavahemärkide ja sümbolite jaoks</string>
-  <string name="onboarding_punctuation_and_symbols_content">Saate nüüd valida, kas TalkBack loeb ette kõik, enamiku või osa kirjavahemärkidest. Soovitud detailsuse taseme valimiseks avage TalkBacki seaded &gt; Paljusõnalisus &gt; Kirjavahemärkide ja sümbolite ettelugemine.\n\nNõuanne: seda, kuidas TalkBack teie kirjavahemärke ja sümboleid ette loeb, saate navigeerimise ajal kiiresti muuta, kasutades lugemise juhtelemente. Selleks avage Menüüde kohandamine &gt; Lugemise juhtelementide kohandamine.</string>
-  <string name="onboarding_punctuation_and_symbols_content_tts">Saate nüüd valida, kas TalkBack loeb ette kõik, enamiku või osa kirjavahemärkidest. Soovitud detailsuse taseme valimiseks avage TalkBacki seaded, Paljusõnalisus ning seejärel Kirjavahemärkide ja sümbolite ettelugemine.\n\nNõuanne: seda, kuidas TalkBack teie kirjavahemärke ja sümboleid ette loeb, saate navigeerimise ajal kiiresti muuta, kasutades lugemise juhtelemente. Selleks avage Menüüde kohandamine ja seejärel Lugemise juhtelementide kohandamine.</string>
+  <string name="onboarding_punctuation_and_symbols_content">Saate nüüd valida, kas TalkBack FOSS loeb ette kõik, enamiku või osa kirjavahemärkidest. Soovitud detailsuse taseme valimiseks avage TalkBacki seaded &gt; Paljusõnalisus &gt; Kirjavahemärkide ja sümbolite ettelugemine.\n\nNõuanne: seda, kuidas TalkBack FOSS teie kirjavahemärke ja sümboleid ette loeb, saate navigeerimise ajal kiiresti muuta, kasutades lugemise juhtelemente. Selleks avage Menüüde kohandamine &gt; Lugemise juhtelementide kohandamine.</string>
+  <string name="onboarding_punctuation_and_symbols_content_tts">Saate nüüd valida, kas TalkBack FOSS loeb ette kõik, enamiku või osa kirjavahemärkidest. Soovitud detailsuse taseme valimiseks avage TalkBacki seaded, Paljusõnalisus ning seejärel Kirjavahemärkide ja sümbolite ettelugemine.\n\nNõuanne: seda, kuidas TalkBack FOSS teie kirjavahemärke ja sümboleid ette loeb, saate navigeerimise ajal kiiresti muuta, kasutades lugemise juhtelemente. Selleks avage Menüüde kohandamine ja seejärel Lugemise juhtelementide kohandamine.</string>
   <string name="onboarding_punctuation_and_symbols_content_with_link">Lisateave paljusõnalisuse valikute kohta</string>
   <string name="new_shortcut_gesture_pause_media_announcement">Meedia on peatatud või seda esitatakse. Tavaliselt peatab see praeguse video või muusika või esitab seda. Jätkamiseks pühkige paremale.</string>
   <string name="new_shortcut_gesture_stop_speech_text">TalkBacki kõne ajutiselt peatamiseks puudutage kahe sõrmega.</string>
@@ -788,12 +788,12 @@
   <string name="learn_more_braille_languages">Lisateave Braille’ keelte kohta</string>
   <string name="tutorial_entry_point_title">Õpetused</string>
   <string name="welcome_to_talkback_title">Tere tulemast TalkBacki</string>
-  <string name="talkback_is_on">TalkBack on sisse lülitatud</string>
-  <string name="talkback_turn_off_description">TalkBack loeb teie ekraani sisu ette ja muudab seda, kuidas navigeerimine teie seadmes toimib. Selle väljalülitamiseks puudutage kaks korda nuppu „Lülita TalkBack välja“.</string>
-  <string name="turn_off_talkback">Lülita TalkBack välja</string>
+  <string name="talkback_is_on">TalkBack FOSS on sisse lülitatud</string>
+  <string name="talkback_turn_off_description">TalkBack FOSS loeb teie ekraani sisu ette ja muudab seda, kuidas navigeerimine teie seadmes toimib. Selle väljalülitamiseks puudutage kaks korda nuppu „Lülita TalkBack FOSS välja“.</string>
+  <string name="turn_off_talkback">Lülita TalkBack FOSS välja</string>
   <string name="tap_again_to_turn_off">Väljalülitamiseks puudutage uuesti</string>
-  <string name="welcome_to_talkback_text">TalkBack annab suulist tagasisidet, et saaksite seadet kasutada ilma ekraanikuva vaatamata. TalkBack on abiks kehva nägemisvõimega inimestele. \n\nKui soovite TalkBacki kiiresti helitugevuse klahvide abil sisse või välja lülitada, saate seadistada otsetee jaotises TalkBacki seaded &gt; TalkBacki otsetee.\n\nKui TalkBack on sisse lülitatud, öeldakse ekraanil esile tõstetud üksus kuuldavalt.\n\nParemale pühkimisega liigute järgmisele üksusele ja vasakule pühkimisega eelmisele üksusele.\n\nPühkige nüüd paremale, et leida nupp Järgmine.</string>
-  <string name="welcome_to_talkback_text_tts">TalkBack annab suulist tagasisidet, et saaksite seadet kasutada ilma ekraanikuva vaatamata. TalkBack on abiks kehva nägemisvõimega inimestele. \n\nKui soovite TalkBacki kiiresti helitugevuse klahvide abil sisse või välja lülitada, saate seadistada otsetee. Selleks valige TalkBacki seaded, seejärel TalkBacki otsetee.\n\nKui TalkBack on sisse lülitatud, öeldakse ekraanil esile tõstetud üksus kuuldavalt.\n\nParemale pühkimisega liigute järgmisele üksusele ja vasakule pühkimisega eelmisele üksusele.\n\nPühkige nüüd paremale, et leida nupp Järgmine.</string>
+  <string name="welcome_to_talkback_text">TalkBack FOSS annab suulist tagasisidet, et saaksite seadet kasutada ilma ekraanikuva vaatamata. TalkBack FOSS on abiks kehva nägemisvõimega inimestele. \n\nKui soovite TalkBacki kiiresti helitugevuse klahvide abil sisse või välja lülitada, saate seadistada otsetee jaotises TalkBacki seaded &gt; TalkBacki otsetee.\n\nKui TalkBack FOSS on sisse lülitatud, öeldakse ekraanil esile tõstetud üksus kuuldavalt.\n\nParemale pühkimisega liigute järgmisele üksusele ja vasakule pühkimisega eelmisele üksusele.\n\nPühkige nüüd paremale, et leida nupp Järgmine.</string>
+  <string name="welcome_to_talkback_text_tts">TalkBack FOSS annab suulist tagasisidet, et saaksite seadet kasutada ilma ekraanikuva vaatamata. TalkBack FOSS on abiks kehva nägemisvõimega inimestele. \n\nKui soovite TalkBacki kiiresti helitugevuse klahvide abil sisse või välja lülitada, saate seadistada otsetee. Selleks valige TalkBacki seaded, seejärel TalkBacki otsetee.\n\nKui TalkBack FOSS on sisse lülitatud, öeldakse ekraanil esile tõstetud üksus kuuldavalt.\n\nParemale pühkimisega liigute järgmisele üksusele ja vasakule pühkimisega eelmisele üksusele.\n\nPühkige nüüd paremale, et leida nupp Järgmine.</string>
   <string name="welcome_to_talkback_page_idle_announcement">Järgmise nupu leidmiseks pühkige nüüd paremale.</string>
   <string name="explore_by_touch_title">Avastamine sõrme lohistamise abil</string>
   <string name="explore_by_touch_text">Saate üksuse esile tõsta ka nii, et lohistate sõrme üle ekraani.\n\nProovige seda kohe – puudutage ekraani ja lohistage sõrme vasaku alanurga poole, kuni leiate nupu „Järgmine“.</string>
@@ -821,7 +821,7 @@
   <string name="menus_selector_text_pre_r">Need otseteed aitavad teil kiirelt seadeid muuta, näiteks lülitada navigeerimist tähemärkidelt sõnadele või muuta TalkBacki kõne kiirust.\n\nKiirelt lugemise juhtelementide muutmiseks pühkige alla ja siis uuesti üles.\n\nTalkBacki menüüd ja lugemise juhtelemente saate TalkBacki seadetes hiljem kohandada.</string>
   <string name="all_set_title">Ongi kõik!</string>
   <string name="all_set_text">Olete valmis TalkBacki kasutama.\n\nVõite praegu muude teemadega tutvumist jätkata, samuti saate TalkBacki seadete kaudu selle teabe igal ajal uuesti üle vaadata.</string>
-  <string name="talkback_tutorial_text">Teema valimiseks pühkige paremale. Parima kasutuskogemuse saamiseks lülitage enne alustamist sisse TalkBack.</string>
+  <string name="talkback_tutorial_text">Teema valimiseks pühkige paremale. Parima kasutuskogemuse saamiseks lülitage enne alustamist sisse TalkBack FOSS.</string>
   <string name="basic_navigation_link_text">Navigeerimise põhitõed</string>
   <string name="basic_navigation_link_subtext">Üksuste vahel liikumine, kerimine, menüüde kasutamine jms</string>
   <string name="text_editing_link_text">Teksti muutmine</string>
@@ -901,7 +901,7 @@
   <string name="lookout_text">Lookout hangib seadme kaamera abil teavet teie läheduses asuvate objektide, piltide ja tekstide kohta.  Selle abil saate lugeda märke ja silte, sortida meile ja teha muud.</string>
   <string name="lookout_tips">Lookout pakub eri režiime olenevalt sellest, millist ülesannet üritate täita. Näiteks tekstilehekülje skannimiseks valige dokumendirežiim.</string>
   <string name="checking_notifications_title">Märguannete vaatamine</string>
-  <string name="checking_notifications_text_head">Kui saate uue märguande, annab TalkBack sellest teada.</string>
+  <string name="checking_notifications_text_head">Kui saate uue märguande, annab TalkBack FOSS sellest teada.</string>
   <string name="checking_notifications_step_one">Kõigepealt tõmmake märguande vaatamiseks nelja sõrmega allapoole.</string>
   <string name="checking_notifications_step_two">Seejärel tõmmake märguandes navigeerimiseks sõrmega vasakule või paremale.</string>
   <string name="checking_notifications_text_tail">Saate kontrollida, millistes rakendustes on märguanded sisse lülitatud, tehes valikud Seaded &gt; Märguanded.</string>
@@ -916,14 +916,14 @@
   <string name="button_3">3. nupp</string>
   <string name="button_4">4. nupp</string>
   <string name="activated_view">Aktiveeriti %1$s</string>
-  <string name="talkback_inactive_title">TalkBack on välja lülitatud</string>
-  <string name="talkback_inactive_warning_message">Need õpetused töötavad kõige paremini siis, kui TalkBack on sisse lülitatud. Saate seda muuta menüüs Seaded.\n\nKui jätkate nii, et TalkBack on välja lülitatud, ei pruugi osa õpetustest toimida nii nagu peaks.</string>
+  <string name="talkback_inactive_title">TalkBack FOSS on välja lülitatud</string>
+  <string name="talkback_inactive_warning_message">Need õpetused töötavad kõige paremini siis, kui TalkBack FOSS on sisse lülitatud. Saate seda muuta menüüs Seaded.\n\nKui jätkate nii, et TalkBack FOSS on välja lülitatud, ei pruugi osa õpetustest toimida nii nagu peaks.</string>
   <string name="do_not_show_again_check_box">Ära seda enam näita</string>
   <string name="talkback_inactive_warning_positive_button">Jätka ikkagi</string>
   <string name="talkback_inactive_go_to_settings_button">Ava seaded</string>
   <string name="talkback_inactive_not_now_button">Mitte praegu</string>
-  <string name="talkback_inactive_message">Liigutuste harjutamiseks lülitage esmalt TalkBack sisse</string>
-  <string name="wear_training_welcome_paragraph">Kui TalkBack on sisse lülitatud, öeldakse ekraanil esile tõstetud üksus kuuldavalt.\n\nParemale pühkimisega liigutakse järgmise üksuse juurde. Vasakule pühkimisega liigutakse eelmise üksuse juurde.\n\nJärgmise nupu leidmiseks pühkige nüüd paremale.</string>
+  <string name="talkback_inactive_message">Liigutuste harjutamiseks lülitage esmalt TalkBack FOSS sisse</string>
+  <string name="wear_training_welcome_paragraph">Kui TalkBack FOSS on sisse lülitatud, öeldakse ekraanil esile tõstetud üksus kuuldavalt.\n\nParemale pühkimisega liigutakse järgmise üksuse juurde. Vasakule pühkimisega liigutakse eelmise üksuse juurde.\n\nJärgmise nupu leidmiseks pühkige nüüd paremale.</string>
   <string name="wear_training_scroll_title">Kerimine</string>
   <string name="wear_training_scroll_text">Pühkige 2 sõrmega üles või alla</string>
   <string name="wear_training_go_back_title">Tagasiliikumine</string>
@@ -936,7 +936,7 @@
   <string name="wear_training_open_talkback_menu_title">TalkBacki menüü avamine</string>
   <string name="wear_training_open_talkback_menu_text">Sageli kasutatavate seadete ja juhtelementide avamiseks pühkige alla ja siis paremale</string>
   <string name="wear_training_end_tutorial_title">Olete valmis TalkBacki kasutama</string>
-  <string name="talkback_updated_notification_title">TalkBack on värskendatud</string>
+  <string name="talkback_updated_notification_title">TalkBack FOSS on värskendatud</string>
   <string name="talkback_updated_notification_content">Lisateabe saamiseks puudutage</string>
   <string name="wear_new_feature_page_title">Tere tulemast värskendatud TalkBacki!</string>
   <string name="wear_new_feature_page_content">Märkate mõningaid veaparandusi ja muudatusi teie fookuse liikumises</string>
@@ -982,10 +982,10 @@
   <string name="confirm_download_subtitle_via_mobile_data">%1$d MB mobiilset andmesidet kasutades. Rakenduda võivad andmesidetasud.</string>
   <string name="confirm_download_icon_detection_message">Ikoonile (nt rakenduses nupule) fokuseerides kuulete lühikirjeldust.\n\nPilte töödeldakse teie seadmes ja neid ei saadeta kunagi Google\'ile.</string>
   <string name="confirm_download_image_description_title">Automaatsete pildikirjelduste jaoks on vaja mudel alla laadida</string>
-  <string name="confirm_download_image_description_message">TalkBack saab tuvastada ja kirjeldada ekraanil kuvatavaid pilte. See aitab rakendustes fotosid tuvastada ja muud teha.</string>
+  <string name="confirm_download_image_description_message">TalkBack FOSS saab tuvastada ja kirjeldada ekraanil kuvatavaid pilte. See aitab rakendustes fotosid tuvastada ja muud teha.</string>
   <string name="confirm_download_checkbox_text">Ära seda enam näita</string>
   <string name="confirm_download_positive_button_text">Laadi alla</string>
-  <string name="confirm_download_negative_button_hint">TalkBack saab siiski kirjeldada piltidel olevat teksti</string>
+  <string name="confirm_download_negative_button_hint">TalkBack FOSS saab siiski kirjeldada piltidel olevat teksti</string>
   <string name="downloading_icon_detection_hint">Ikoonide kirjelduste allalaadimine</string>
   <string name="download_icon_detection_successful_hint">Ikoonide kirjeldused on alla laaditud</string>
   <string name="download_icon_detection_failed_hint">Ikoonide kirjeldusi ei saa alla laadida</string>
@@ -1010,11 +1010,11 @@
   <string name="delete_dialog_negative_button_text">Tühista</string>
   <string name="delete_icon_description_hint">Ikoonide kirjeldused kustutati</string>
   <string name="delete_image_description_hint">Kujutiste kirjeldused kustutati</string>
-  <string name="gemini_enable_dialog_title">Gemini kasutamine funktsioonis TalkBack</string>
+  <string name="gemini_enable_dialog_title">Gemini kasutamine funktsioonis TalkBack FOSS</string>
   <string name="gemini_disable_dialog_message">Ekraani mõistmine Geminiga</string>
   <string name="disable_gemini_dialog_subtext">Lülitage sisse, et võimaldada Gemini abil ekraani mõistmine</string>
   <string name="ai_services_update_dialog_title">Update %1$s to describe images</string>
-  <string name="ai_services_update_dialog_message">To hear image descriptions, get the latest version of %1$s  from Google Play.\n\nOnce download is complete, come back to TalkBack settings and turn on automatic image descriptions again.</string>
+  <string name="ai_services_update_dialog_message">To hear image descriptions, get the latest version of %1$s  from Google Play.\n\nOnce download is complete, come back to TalkBack FOSS settings and turn on automatic image descriptions again.</string>
   <string name="ai_services_update_dialog_button_text">Go to Google Play</string>
   <string name="aicore_app_name">AICore</string>
   <string name="astrea_app_name">Private Compute Service</string>
@@ -1026,7 +1026,7 @@
   <string name="text_replaced_feedback">Tekst asendati</string>
   <string name="switch_gesture_set">Liigutuste komplekti vahetamine</string>
   <string name="switch_gesture_set_to">Liigutuste komplektile %1$d vahetamine</string>
-  <string name="settings_search_prefix">TalkBack &gt; Seaded</string>
-  <string name="search_summary_2_levels">TalkBack &gt; Seaded > %1$s</string>
-  <string name="search_summary_3_levels">TalkBack &gt; Seaded > %1$s &gt; %2$s</string>
+  <string name="settings_search_prefix">TalkBack FOSS &gt; Seaded</string>
+  <string name="search_summary_2_levels">TalkBack FOSS &gt; Seaded > %1$s</string>
+  <string name="search_summary_3_levels">TalkBack FOSS &gt; Seaded > %1$s &gt; %2$s</string>
 </resources>
